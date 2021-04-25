@@ -68,4 +68,3 @@ for link in links:
     progress.update(1)  #進度條更新
     index += 1
     # time.sleep(1.5)
-# 要檢查圖片檔完不完整(待修改)DONE!
